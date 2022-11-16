@@ -10,5 +10,7 @@ The second task is about writing a UNIX command line interpreter.
 The third task is about handling command lines with arguments.
 
 The fourth task:
-		a. PATH handling.
+		a.I PATH handling.
 		b. Not calling the fork if command doesnt exist.
+
+The fifth task is to implement the env built-in, that prints the current en
